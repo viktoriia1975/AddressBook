@@ -1,4 +1,4 @@
-package com.company;
+package com.vika;
 
 public class lesson2 {
 
